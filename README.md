@@ -10,8 +10,7 @@
 # Kịch bản kiểm tra:
 - Thread Group:
     + Số lượng thread: 100
-    + Thời gian chạy: 60 giây
-    + Ramp-up period: 10 giây
+    + Thời gian chạy: 2 giây
 - HTTP Request:
     + URL: https://thoitiet.vn/
     + Method: GET
@@ -46,8 +45,7 @@ Trang web https://thoitiet.vn/ có hiệu năng khá tốt. Số lượng yêu c
 # Kịch bản kiểm tra:
 - Thread Group:
     + Số lượng thread: 100
-    + Thời gian chạy: 60 giây
-    + Ramp-up period: 10 giây
+    + Thời gian chạy: 3 giây
 - HTTP Request:
     + URL: https://reqres.in/api/login
     + Method: POST
